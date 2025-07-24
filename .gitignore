@@ -3,6 +3,8 @@
 
 logs/*
 tasks/*
+reports/*
 
 !tasks/example.txt
 !taicli.sh
+!anta.sh
