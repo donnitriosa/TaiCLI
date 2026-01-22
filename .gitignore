@@ -4,7 +4,9 @@
 logs/*
 tasks/*
 reports/*
+pdf/*
 
 !tasks/example.txt
 !taicli.sh
 !anta.sh
+!convertpdf.sh
